@@ -4,98 +4,44 @@ title: Exposés
 permalink: /exposes/
 ---
 
-Durant le second semestre, nous organisons au LaMME un séminaire en deux exposés sur une même thématique en génomique. Pour plus d'informations, consulter [le projet](projet.md).
+***
+
+**Nicolas Verzelen**
+
+**Title:** *Optimal change-point detection and localization*
+
+**Abstract:** Given a times series, we consider the twin problems of detecting and localizing change-points in the distribution. This encompasses various models including mean univariate, sparse multivariate, non-parametric, or kernel change-points... Starting with the simple Gaussian univariate model, we derive optimal detection and localization rates and uncover phase transitions from regional testing problems to local estimation problems. Notably, our multi-scale procedures accommodate with the presence of possibly many low-energy and therefore undetectable change-points.  In a second part, we explain how the methodology extends to more generic change-point problems by drawing some connection with minimax theory in multiple testing. This is based on joint works with A. Carpentier, M. Fromont, M. Lerasle, E. Pilliat, and P. Reynaud-Bouret. 
+
+***
+
+**Igor Nikiforov**
+
+
+**Title:** *Sequential detection of abrupt changes: some criteria and methods*
+ 
+**Abstract:** The goal of this presentation is to discuss the relation between the criteria of optimality in sequential detection of abrupt changes and the methods used to get the desired operating characteristics. The presentation is divided in three parts. The first part is devoted to the quickest detection of abrupt changes when the post-change hypothesis is simple or composite. The criterion is to minimize the (worst-case) mean detection delay for a given ARL to false alarm. Here we discuss how the a priori information on the post-change distribution affects the structure and operating characteristics of the sequential tests. We also discuss how the nuisance parameters in the pre- and post-change stochastic models affect the sequential tests. The second part is devoted to the quickest multidecision change detection/isolation problem, which is the generalization of the quickest changepoint detection problem to the case of M>1 post-change hypotheses. The criterion is to minimize the (worst-case) mean detection delay for a given ARL to false alarm and for a given probability of false isolation. A special attention will be paid to the case of M non-orthogonal post-change hypotheses. The comparison between the sequential and non-sequential or fixed sample size (FSS) tests will be also considered here for the cases of M=1 and M>1 post-change hypotheses. Finally, the third part is devoted to the reliable detection of transient changes, i.e., it is assumed that the duration of the post-change period is finite and usually short. Unlike the quickest sequential change detection, which assumes that the post-change period is infinitely long, we use here the probabilistic criterion of optimality, i.e., the worst-case probability of missed detection against the worst-case probability of false alarm during a reference period. We discuss the optimization of the window-limited CUSUM test and its comparison with the FSS test. Several typical real-life examples will be given to illustrate the theoretical ideas.
 
 
 ***
 
-***SAISON 2022***
+**Rebecca Killick**
 
-**Jeudi 18 novembre 2021. 14h (grand amphi IBGBI)** : <span style="color:rgb(75, 182, 180)">RNA-Seq in plant organelles: why, how and new statistical approach</span>
-- Benoît Castandet (IPS2 - Université Paris-Diderot)
-- Arnaud Liehrmann (IPS2 - Université d'Evry)
+**Title:** *Detecting changes in mixed-sampling rate data sequences*
 
-Les abstracts dans le [pdf](ABSTRACT/18_nov2021.pdf)
+**Abstract:** Different environmental variables are often monitored using different sampling rates; examples include half-hourly weather station measurements, daily $\mbox{CO}_2$ data and six-day satellite data.  When researchers want to combine the data into a single analysis this often requires data aggregation or down-scaling.  Further, when one is seeking to identify changes within multivariate data, the aggregation and/or down-scaling processes obscure the changes we seek.  In this talk, we propose a novel changepoint detection algorithm which can analyse multiple time series for co-occurring changepoints with potentially different sampling rates, without requiring preprocessing to a standard sampling scale.  We demonstrate the algorithm on synthetic data before providing an example identifying simultaneous changes in multiple variables at a location on the Greenland ice sheet using synthetic apature radar (SAR) and weather station data.
 
 ***
 
-***SAISON 2021***
+**Farida Enikeeva**
 
-**Jeudi 27 mai 2021. 14h (grand amphi IBGBI)** : <span style="color:rgb(75, 182, 180)">Prise en charge des cancers du sein et de l’ovaire</span>
-- Antoine de Pauw (Conseiller en génétique, Institut Curie) ([presentation](dePauw.pdf))
-- Grégory Nuel (LPSM, Sorbonne Université) ([presentation](talk_nuel2021genetics_evry.pdf))
+**Title:** *Change-point detection in dynamic networks with missing links*
 
-Les abstracts dans le [pdf](ABSTRACT/27_mai2021.pdf)
+**Abstract:** We consider the problem of change-point detection in a sequence of
+partially observed networks. The goal is to detect whether there is a change in the network
+parameters. Our approach is based on the Matrix CUSUM test statistic and allows growing
+size of networks. We show that the proposed test is minimax rate-optimal and robust to missing links. It is a joint work with Olga Klopp. 
 
-**Jeudi 6 mai 2021. 14h (grand amphi IBGBI)** : <span style="color:rgb(75, 182, 180)">Poisson lognormal models help digging into the mechanisms of
-species assemblages</span>
-- Virginie Ravigné (chercheuse CIRAD, UMR PVBMT, Saint-Pierre, Réunion) ([presentation](2021_05_06_SeminaireM4G.pdf))
-- Julien Chiquet (Senior Researcher in Statistics, INRAE) ([presentation](https://pln-team.github.io/slideshow/slides))
 
-Les abstracts dans le [pdf](ABSTRACT/6_mai2021.pdf)
 
-***
 
-***SAISON 2020***
 
-**Mercredi 17 juin 2020. 11h (séminaire online)** : <span style="color:rgb(75, 182, 180)">Co-adaptation in plant genomes</span>
-- Françoise Budar (Institut Jean-Pierre Bourgin)
-- Marie-Laure Martin-Magniette (IPS2)
-
-Les abstracts dans le [pdf](ABSTRACT/9_17juin2020.pdf) et la présentation commune par [ici](budar_martinMagniette.pdf)
-
-**Mercredi 3 juin 2020. 11h (séminaire online)** : <span style="color:rgb(75, 182, 180)">Metagenomics: from biological data to statistical associations</span>
-- Coline Billerey (Enterome)([presentation](billerey.pdf))
-- Antoine Bichat (LaMME/Enterome)([presentation](https://abichat.github.io/talks/hierarchicalcorrection_lamme/#1))
-
-Les abstracts dans le [pdf](ABSTRACT/8_3juin2020.pdf)
-
-***
-
-***SAISON 2019***
-
-**Mercredi 29 mai 2019. 10h30** : <span style="color:rgb(75, 182, 180)">Using DNA metabarcoding to study plant-microbiote interactions</span>
-- Christophe Mougel (INRA/Rennes) ([presentation](mougel.pdf))
-- Julie Aubert (INRA/AgroParisTech) ([presentation](aubert.pdf))
-
-Les abstracts dans le [pdf](ABSTRACT/7_29mai2019.pdf)
-
-**Mercredi 3 avril 2019. 10h30** : <span style="color:rgb(75, 182, 180)">Changepoint detection with kernels</span>
-- Morgane Pierre-Jean (CEA. Evry) ([presentation](pierrejean.pdf))
-- Alain Célisse (Université de Lille. Laboratoire Painlevé) ([presentation](celisse.pdf))
-
-Les abstracts dans le [pdf](ABSTRACT/6_3avril2019.pdf)
-
-**Mercredi 6 février 2019. 14h** : <span style="color:rgb(75, 182, 180)">Stem cells</span>
-- Emmanuelle Six (Institut Imagine) ([presentation partielle](six.pdf)) (travaux en cours de publication)
-- Agathe Guilloux (LaMME Evry) ([presentation](guilloux.pdf))
-
-Les abstracts dans le [pdf](ABSTRACT/5_6fevrier2019.pdf)
-
-***
-
-***SAISON 2018***
-
-**Mercredi 23 mai 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Post hoc inference via multiple testing</span>
-- Benjamin SADACCA (Institut Curie) ([presentation](sadacca.pdf))
-- Pierre NEUVIAL (IMT, CNRS) ([presentation](neuvial.pdf))
-
-Les abstracts dans le [pdf](ABSTRACT/4_23mai.pdf)
-
-**Mercredi 11 avril 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Données Hi-C.</span> (Séance de rattrapage du 7 février)
-- Nicolas SERVANT (Institut Curie) ([presentation](servant.pdf))
-- Sarah OUADAH (AgroParisTech) ([presentation](ouadah.pdf))
-
-Les abstracts dans le [pdf](ABSTRACT/2_11avril.pdf)
-
-**Mercredi 7 mars 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Méthodes phylogénétiques comparatives.</span>
-- Hélène CHIAPELLO (INRA) ([presentation](chiapello_mariadassou.pdf))
-- Mahendra MARIADASSOU (INRA) ([presentation](chiapello_mariadassou.pdf))
-
-Les abstracts dans le [pdf](ABSTRACT/3_7mars.pdf)
-
-**Mercredi 10 janvier 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Problème d'assemblage de génomes.</span>
-- Véronique BRUNAUD (IPS2) ([presentation](brunaud.pdf))
-- Michel KOSKAS (AgroParisTech) ([presentation](koskas.pdf))
-
-Les abstracts dans le [pdf](ABSTRACT/1_10janvier.pdf)
