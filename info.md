@@ -4,30 +4,41 @@ title: Information
 permalink: /info/
 ---
 
+**Program (in construction)**
+
+Monday 16
+
+- **14h - 15h**	keynote speaker 1 (45 min) Nicolas Verzelen
+
+- **15h - 16h** keynote speaker 2 (45 min) par Igor Nikiforov
+
+- **16h30 - 18h30** short presentations (5x20min)
+
+20h - 00h. Social dinner (in Paris City center)
+
+Tuesday 17
+
+- **9h30 - 10h30**	keynote speaker 3 (45 min) Rebecca Killick
+
+- **10h30 - 11h30**	keynote speaker 4 (45 min) Farida Enikeeva
+
+- **11h45 - 12h45**	short presentations (2x30min)
+
+Lunch
+
+-  **14h30 - 16h**	short presentations (3x30min)
 
 
-**L'idée.** Présenter un <span style="color:rgb(75, 182, 180)">outil théorique algo/math</span> novateur et son utilisé dans le traitement de données génomiques.
+**Registration**
 
-**L'objectif.** Echanger et partager entre <span style="color:rgb(75, 182, 180)">spécialistes d’horizons différents</span> autour des défis théoriques à relever en algorithmie et mathématique pour la génomique.
+registration is mandatory bu free of charge.
+We also provide free lunches and a free social dinner. The number of participants could be limited, please register 
 
-**Le format.** <span style="color:rgb(75, 182, 180)">Deux exposés sur 1h30-2h</span> Les deux exposés relèveront <span style="color:rgb(75, 182, 180)">d'une même thématique</span>, en lien avec un même type de données génomiques. <span style="color:rgb(140, 5, 70)">Le premier exposé sera orienté vers la problématique des données pour le biologiste/bio-informaticien.</span> 
- 
-**Le créneau.** <span style="color:rgb(75, 182, 180)">Environ une fois par mois le jeudi entre 14h et 16h</span> de janvier à mai. (4 à 5 séances au total). Voir [le programme](exposes.md).
-
-**Le lieu.**  4ème étage de l’IBGBI. Evry. Salle de réunion équipe statistique et Génome. (bâtiment en accès libre). Voir [Info Pratiques](infos.md).
-
-**Public visé.** <span style="color:rgb(75, 182, 180)">Le séminaire est ouvert à toute personne intéressée</span>. En particulier, nous souhaitons rassembler les chercheurs du Génopôle confrontés à la problématique du traitement des données génomiques: bio-informaticiens, statisticiens, biologistes, mathématiciens et informaticiens. Ce séminaire est également ouvert aux étudiants de master 2.
-
-**Organisateurs :** Christophe Amboise, Guillem Rigaill, Vincent Runge.
-
-Envie de présenter votre travail ou de participer? contactez-nous par email: 
-vincent.runge@univ-evry.fr
-
-Ce projet est soutenu par :
+[Register Here !!!](https://docs.google.com/forms/d/1s3eGe7urbe5-xfgj5gp-JfJ5RbTOnoXZOqPY3L-gdWA/edit)
 
 ![_config.yml]({{ site.baseurl }}/images/logo_lamme.png)
 ![_config.yml]({{ site.baseurl }}/images/logo_ueve.png)
 ![_config.yml]({{ site.baseurl }}/images/logo_genopole.png)
 
-Plus d'informations sur l'activité du laboratoire LaMME [ici](http://www.math-evry.cnrs.fr/doku.php)
+laboratoire LaMME [ici](http://www.math-evry.cnrs.fr/doku.php)
 
