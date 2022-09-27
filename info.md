@@ -31,12 +31,10 @@ Address: *4 Av. des Sciences, 91190 Gif-sur-Yvette*
 
 ![_config.yml]({{ site.baseurl }}/images/saclay.png)
 
-We consider the possibility to organize the first day (Monday afternoon) in another institution in Paris city center (especially to provide a smooth transition with the social dinner).
-
+We consider the possibility to organize the first day (Monday afternoon) in another institution in Paris city center (especially to provide a smooth transition with the social dinner). More info soon.
 
 
 ***
-
 
 **Provisional programme**
 
