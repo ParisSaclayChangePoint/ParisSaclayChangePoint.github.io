@@ -59,7 +59,10 @@ If needed, we could consider providing financial support (for travelling and acc
 ![_config.yml]({{ site.baseurl }}/images/logo_lamme.png)
 ![_config.yml]({{ site.baseurl }}/images/logo_borelli.png)
 
-laboratoire LaMME [ici](http://www.math-evry.cnrs.fr/doku.php)
+[![_config.yml]({{ site.baseurl }}/images/logo_lamme.png)](http://www.math-evry.cnrs.fr/doku.php)
+
+laboratoire LaMME [ici](https://centreborelli.ens-paris-saclay.fr/fr)
+
 
 
 
