@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Keynote Speakers
 permalink: /speakers/
 ---
