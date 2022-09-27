@@ -19,7 +19,7 @@ We also provide free lunches and a free social dinner. The number of participant
 
 
 
-We could consider providing financial support for workshop speakers (for travelling and accomodation expensives). Please do not hesitate to contact us for that and for any other questions (<vincent.runge@univ-evry.fr> and <ctruong@ens-paris-saclay.fr>). 
+We could consider providing financial support for workshop speakers (for travelling and accommodation expenses). Please do not hesitate to contact us for that and for any other questions (<vincent.runge@univ-evry.fr> and <ctruong@ens-paris-saclay.fr>). 
 
 ***
 
