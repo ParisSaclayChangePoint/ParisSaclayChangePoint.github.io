@@ -15,7 +15,7 @@ The Paris-Saclay Change-Point workshop is a **2-day meeting** dedicated to theor
 registration is mandatory (but free of charge).
 We also provide free lunches and a free social dinner. The number of participants could be limited, please register in advance (we will send you a confirmation email)
 
-<center> [----- Register Here -----](https://docs.google.com/forms/d/e/1FAIpQLSdrJDJYCFtiO1Pe1R85hQrI1LLHs-W2fCg9wWRxKjeeWaZckg/viewform?usp=sf_link) </center>
+[          ----- Register Here -----](https://docs.google.com/forms/d/e/1FAIpQLSdrJDJYCFtiO1Pe1R85hQrI1LLHs-W2fCg9wWRxKjeeWaZckg/viewform?usp=sf_link)
 
 
 
