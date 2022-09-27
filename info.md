@@ -58,11 +58,17 @@ We could consider providing financial support for workshop speakers (for travell
 *Coffee break*
 
 
+***
+
+List of participants (to be announced)
+
+
+
+
 ![_config.yml]({{ site.baseurl }}/images/logo_borelli.png)
 ![_config.yml]({{ site.baseurl }}/images/logo_lamme.png)
 
-[Borelli website](https://centreborelli.ens-paris-saclay.fr/fr)
-[LaMME website](http://www.math-evry.cnrs.fr/doku.php)
+[Borelli website](https://centreborelli.ens-paris-saclay.fr/fr)   --       [LaMME website](http://www.math-evry.cnrs.fr/doku.php)
 
 
 
