@@ -4,7 +4,6 @@ title: Keynote Speakers
 permalink: /speakers/
 ---
 
-***
 
 **Nicolas Verzelen**
 
