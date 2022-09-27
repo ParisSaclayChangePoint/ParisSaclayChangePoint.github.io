@@ -16,7 +16,7 @@ We also provide free lunches and a free social dinner. The number of participant
 
 [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSdrJDJYCFtiO1Pe1R85hQrI1LLHs-W2fCg9wWRxKjeeWaZckg/viewform?usp=sf_link)
 
-If needed, we could consider providing financial support (for travelling and accomodation expensives). Please do not hesitate to contact us for that and any other questions (<vincent.runge@univ-evry.fr> and <ctruong@ens-paris-saclay.fr>). 
+We could consider providing financial support for workshop speakers (for travelling and accomodation expensives). Please do not hesitate to contact us for that and for any other questions (<vincent.runge@univ-evry.fr> and <ctruong@ens-paris-saclay.fr>). 
 
 ***
 
