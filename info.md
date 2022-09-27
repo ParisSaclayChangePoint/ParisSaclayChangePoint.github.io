@@ -23,6 +23,21 @@ We could consider providing financial support for workshop speakers (for travell
 
 ***
 
+**Pratical information**
+
+The conference will be held at the *Paris-Saclay Normal School*, about 45 min by train RER B from Paris central station Châtelet). 
+
+Address: *4 Av. des Sciences, 91190 Gif-sur-Yvette*
+
+![_config.yml]({{ site.baseurl }}/images/saclay.png)
+
+We consider the possibility to organize the first day (Monday afternoon) in another institution in Paris city center (especially to provide a smooth transition with the social dinner).
+
+
+
+***
+
+
 **Provisional programme**
 
 ***Monday 16***
