@@ -60,8 +60,10 @@ We could consider providing financial support for workshop speakers (for travell
 
 ***
 
-List of participants (to be announced)
+**List of participants (to be announced)**
 
+
+***
 
 
 
