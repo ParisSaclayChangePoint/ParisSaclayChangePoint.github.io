@@ -1,7 +1,7 @@
 ---
 layout: default
-title: info
-permalink: /info/
+title: Info
+permalink: /
 ---
 
 
