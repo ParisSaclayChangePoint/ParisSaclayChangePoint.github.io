@@ -5,15 +5,15 @@ permalink: /speakers/
 ---
 
 
-**Nicolas Verzelen**
+### Nicolas Verzelen
 
 **Title:** *Optimal change-point detection and localization*
 
-**Abstract:** Given a times series, we consider the twin problems of detecting and localizing change-points in the distribution. This encompasses various models including mean univariate, sparse multivariate, non-parametric, or kernel change-points... Starting with the simple Gaussian univariate model, we derive optimal detection and localization rates and uncover phase transitions from regional testing problems to local estimation problems. Notably, our multi-scale procedures accommodate with the presence of possibly many low-energy and therefore undetectable change-points.  In a second part, we explain how the methodology extends to more generic change-point problems by drawing some connection with minimax theory in multiple testing. This is based on joint works with A. Carpentier, M. Fromont, M. Lerasle, E. Pilliat, and P. Reynaud-Bouret. 
+**Abstract:** Given a times series, we consider the twin problems of detecting and localizing change-points in the distribution. This encompasses various models including mean univariate, sparse multivariate, non-parametric, or kernel change-points... Starting with the simple Gaussian univariate model, we derive optimal detection and localization rates and uncover phase transitions from regional testing problems to local estimation problems. Notably, our multi-scale procedures accommodate with the presence of possibly many low-energy and therefore undetectable change-points. In a second part, we explain how the methodology extends to more generic change-point problems by drawing some connection with minimax theory in multiple testing. This is based on joint works with A. Carpentier, M. Fromont, M. Lerasle, E. Pilliat, and P. Reynaud-Bouret. 
 
 ***
 
-**Igor Nikiforov**
+### Igor Nikiforov
 
 
 **Title:** *Sequential detection of abrupt changes: some criteria and methods*
@@ -23,15 +23,15 @@ permalink: /speakers/
 
 ***
 
-**Rebecca Killick**
+### Rebecca Killick
 
 **Title:** *Detecting changes in mixed-sampling rate data sequences*
 
-**Abstract:** Different environmental variables are often monitored using different sampling rates; examples include half-hourly weather station measurements, daily $\mbox{CO}_2$ data and six-day satellite data.  When researchers want to combine the data into a single analysis this often requires data aggregation or down-scaling.  Further, when one is seeking to identify changes within multivariate data, the aggregation and/or down-scaling processes obscure the changes we seek.  In this talk, we propose a novel changepoint detection algorithm which can analyse multiple time series for co-occurring changepoints with potentially different sampling rates, without requiring preprocessing to a standard sampling scale.  We demonstrate the algorithm on synthetic data before providing an example identifying simultaneous changes in multiple variables at a location on the Greenland ice sheet using synthetic apature radar (SAR) and weather station data.
+**Abstract:** Different environmental variables are often monitored using different sampling rates; examples include half-hourly weather station measurements, daily CO<sub>2</sub> data and six-day satellite data. When researchers want to combine the data into a single analysis this often requires data aggregation or down-scaling. Further, when one is seeking to identify changes within multivariate data, the aggregation and/or down-scaling processes obscure the changes we seek. In this talk, we propose a novel changepoint detection algorithm which can analyse multiple time series for co-occurring changepoints with potentially different sampling rates, without requiring preprocessing to a standard sampling scale. We demonstrate the algorithm on synthetic data before providing an example identifying simultaneous changes in multiple variables at a location on the Greenland ice sheet using synthetic apature radar (SAR) and weather station data.
 
 ***
 
-**Farida Enikeeva**
+### Farida Enikeeva
 
 **Title:** *Change-point detection in dynamic networks with missing links*
 
