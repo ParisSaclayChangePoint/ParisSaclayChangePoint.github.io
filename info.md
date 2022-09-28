@@ -28,7 +28,9 @@ We can offer financial support for workshop speakers (for travel and accommodati
 
 The conference will be held at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en/school/how-find-us), accessible by train (RER B from Paris) in around 45 minutes.
 
-![_config.yml]({{ site.baseurl }}/images/saclay.jpg)
+<p align="center">
+  <img src="{{ site.baseurl }}/images/saclay.jpg" />
+</p>
 
 The first day of the workshop (Monday afternoon) might take place in Paris city center. More information soon.
 
