@@ -42,9 +42,9 @@ We consider the possibility to organize the first day (Monday afternoon) in anot
 
 *Lunch*
 
-- **14h - 15h**	keynote speaker 1 (45 min) Nicolas Verzelen
+- **14h - 15h**	Keynote speaker 1 (45 min) by Nicolas Verzelen [(abstract)](https://parissaclaychangepoint.github.io/speakers/#nicolas-verzelen)
 
-- **15h - 16h** keynote speaker 2 (45 min) Igor Nikiforov
+- **15h - 16h** Keynote speaker 2 (45 min) by Igor Nikiforov [(abstract)](https://parissaclaychangepoint.github.io/speakers/#igor-nikiforov)
 
 *Coffee break*
 
@@ -56,9 +56,9 @@ We consider the possibility to organize the first day (Monday afternoon) in anot
 
 ***Tuesday 17***
 
-- **9h30 - 10h30**	keynote speaker 3 (45 min) Rebecca Killick
+- **9h30 - 10h30**	Keynote speaker 3 (45 min) by Rebecca Killick [(abstract)](https://parissaclaychangepoint.github.io/speakers/#rebecca-killick)
 
-- **10h30 - 11h30**	keynote speaker 4 (45 min) Farida Enikeeva
+- **10h30 - 11h30**	Keynote speaker 4 (45 min) by Farida Enikeeva [(abstract)](https://parissaclaychangepoint.github.io/speakers/#farida-enikeeva)
 
 *Coffee break*
 

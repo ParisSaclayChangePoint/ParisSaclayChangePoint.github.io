@@ -5,15 +5,15 @@ permalink: /speakers/
 ---
 
 
-**Nicolas Verzelen**
+### Nicolas Verzelen
 
 **Title:** *Optimal change-point detection and localization*
 
-**Abstract:** Given a times series, we consider the twin problems of detecting and localizing change-points in the distribution. This encompasses various models including mean univariate, sparse multivariate, non-parametric, or kernel change-points... Starting with the simple Gaussian univariate model, we derive optimal detection and localization rates and uncover phase transitions from regional testing problems to local estimation problems. Notably, our multi-scale procedures accommodate with the presence of possibly many low-energy and therefore undetectable change-points.  In a second part, we explain how the methodology extends to more generic change-point problems by drawing some connection with minimax theory in multiple testing. This is based on joint works with A. Carpentier, M. Fromont, M. Lerasle, E. Pilliat, and P. Reynaud-Bouret. 
+**Abstract:** Given a times series, we consider the twin problems of detecting and localizing change-points in the distribution. This encompasses various models including mean univariate, sparse multivariate, non-parametric, or kernel change-points... Starting with the simple Gaussian univariate model, we derive optimal detection and localization rates and uncover phase transitions from regional testing problems to local estimation problems. Notably, our multi-scale procedures accommodate with the presence of possibly many low-energy and therefore undetectable change-points. In a second part, we explain how the methodology extends to more generic change-point problems by drawing some connection with minimax theory in multiple testing. This is based on joint works with A. Carpentier, M. Fromont, M. Lerasle, E. Pilliat, and P. Reynaud-Bouret. 
 
 ***
 
-**Igor Nikiforov**
+### Igor Nikiforov
 
 
 **Title:** *Sequential detection of abrupt changes: some criteria and methods*
@@ -23,7 +23,7 @@ permalink: /speakers/
 
 ***
 
-**Rebecca Killick**
+### Rebecca Killick
 
 **Title:** *Detecting changes in mixed-sampling rate data sequences*
 
@@ -31,7 +31,7 @@ permalink: /speakers/
 
 ***
 
-**Farida Enikeeva**
+### Farida Enikeeva
 
 **Title:** *Change-point detection in dynamic networks with missing links*
 
