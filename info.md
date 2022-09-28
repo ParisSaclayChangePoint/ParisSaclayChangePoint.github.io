@@ -1,6 +1,6 @@
 ---
 layout: default
-title: info
+title: Info
 permalink: /info/
 ---
 
