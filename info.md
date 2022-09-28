@@ -5,38 +5,36 @@ permalink: /info/
 ---
 
 
-The Paris-Saclay Change-Point workshop is a **2-day meeting** dedicated to theoretical and applied methods for solving change-point detection problems. The primary goal of the workshop consists in **fostering new interactions** within the European community of change-point Reseachers. This event is **free of charge** (no registration fee) and open to anyone willing to contribute to the development of the field (M2 students, PhD, young and senior Researchers, etc). 
+The Paris-Saclay Change-Point workshop is a **2-day meeting** dedicated to theoretical and applied methods for solving change-point detection problems.
+The primary goal is to **foster new interactions** within the European community of change-point reseachers. This event is **free of charge** (no registration fee) and open to anyone willing to contribute to the development of the field (M2 students, PhD, young and senior researchers, etc).
 
 
 ***
 
 **Registration**
 
-registration is mandatory (but free of charge).
-We also provide free lunches and a free social dinner. The number of participants could be limited, please register in advance (we will send you a confirmation email)
+Registration is mandatory (but free of charge).
+Complimentary lunches and a social dinner will be provided. The number of participants is limited, so please register in advance.
 
-[          ----- Register Here -----](https://docs.google.com/forms/d/e/1FAIpQLSdrJDJYCFtiO1Pe1R85hQrI1LLHs-W2fCg9wWRxKjeeWaZckg/viewform?usp=sf_link)
+<p style="text-align: center;">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdrJDJYCFtiO1Pe1R85hQrI1LLHs-W2fCg9wWRxKjeeWaZckg/viewform?usp=sf_link">----- Register here -----</a>
+</p>
 
-
-
-We could consider providing financial support for workshop speakers (for travelling and accommodation expenses). Please do not hesitate to contact us for that and for any other questions (<vincent.runge@univ-evry.fr> and <ctruong@ens-paris-saclay.fr>). 
+We can offer financial support for workshop speakers (for travel and accommodation). Please do not hesitate to contact us at: <vincent.runge@univ-evry.fr> and <ctruong@ens-paris-saclay.fr>.
 
 ***
 
 **Pratical information**
 
-The conference will be held at the *Paris-Saclay Normal School*, about 45 min by train RER B from Paris central station Châtelet). 
+The conference will be held at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en/school/how-find-us), accessible by train (RER B from Paris) in around 45 minutes.
 
 ![_config.yml]({{ site.baseurl }}/images/saclay.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/saclay.png)
-
-We consider the possibility to organize the first day (Monday afternoon) in another institution in Paris city center (especially to provide a smooth transition with the social dinner). More info soon.
-
+The first day of the workshop (Monday afternoon) might take place in Paris city center. More information soon.
 
 ***
 
-**Provisional programme**
+**Provisional programm**
 
 ***Monday 16***
 
@@ -48,7 +46,7 @@ We consider the possibility to organize the first day (Monday afternoon) in anot
 
 *Coffee break*
 
-- **16h30 - 18h30** workshop presentations (5x20min)
+- **16h30 - 18h30** Workshop presentations (5x20min)
 
 *20h - 00h. Social dinner (in Paris City center)*
 
@@ -62,11 +60,11 @@ We consider the possibility to organize the first day (Monday afternoon) in anot
 
 *Coffee break*
 
-- **11h45 - 12h45**	workshop presentations (2x30min)
+- **11h45 - 12h45**	Workshop presentations (2x30min)
 
 *Lunch*
 
--  **14h30 - 16h**	workshop presentations (3x30min)
+-  **14h30 - 16h**	Workshop presentations (3x30min)
 
 *Coffee break*
 
