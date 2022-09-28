@@ -38,7 +38,7 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 
 **Provisional programm**
 
-***Monday 16***
+***Monday 16 January 2023***
 
 *Lunch*
 
@@ -54,7 +54,7 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 
 
 
-***Tuesday 17***
+***Tuesday 17 January 2023***
 
 - **9h30 - 10h30**	Keynote speaker 3 (45 min) by Rebecca Killick [(abstract)](https://parissaclaychangepoint.github.io/speakers/#rebecca-killick)
 
