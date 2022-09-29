@@ -5,8 +5,8 @@ permalink: /
 ---
 
 
-The Paris-Saclay Change-Point workshop is a **2-day meeting** dedicated to theoretical and applied methods for solving change-point detection problems.
-The primary goal is to **foster new interactions** within the European community of change-point reseachers. This event is **free of charge** (no registration fee) and open to anyone willing to contribute to the development of the field (M2 students, PhD, young and senior researchers, etc).
+The Paris-Saclay Change-Point workshop is a **2-day meeting** dedicated to theoretical and applied methods for solving change-point detection problems. The primary goal of the workshop consists in **fostering new interactions** within the European community of change-point Researchers. This event is **free of charge** (no registration fee) and open to anyone willing to contribute to the development of the field (M2 students, PhD, young and senior Researchers, etc). 
+
 
 
 ***
@@ -26,7 +26,7 @@ We can offer financial support for workshop speakers (for travel and accommodati
 
 **Pratical information**
 
-The conference will be held at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en/school/how-find-us), accessible by train (RER B from Paris) in around 45 minutes.
+The conference will be held at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en/school/how-find-us), accessible by train (RER B from Paris) in about 45 minutes.
 
 <p align="center">
   <img src="{{ site.baseurl }}/images/saclay.jpg" />
