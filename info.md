@@ -13,7 +13,7 @@ The Paris-Saclay Change-Point workshop is a **2-day meeting** dedicated to theor
 **Registration**
 
 Registration is mandatory (but free of charge).
-Complimentary lunches and a social dinner will be provided. The number of participants is limited, so please register in advance.
+Complimentary lunches and a social dinner will be provided. The number of participants is limited, so please register in advance. Registration closing date is **December the 1st**
 
 <p style="text-align: center;">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdrJDJYCFtiO1Pe1R85hQrI1LLHs-W2fCg9wWRxKjeeWaZckg/viewform?usp=sf_link">----- Register here -----</a>
