@@ -70,10 +70,11 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 *Coffee break*
 
 
-***
+*** 
 
-**List of participants (to be announced)**
+**Young Researcher Session**
 
+On Monday morning, **10h - 12h**, we propose a "young Researcher Session" (for PhD and PostDocs) as a side event of this workshop. 
 
 ***
 
