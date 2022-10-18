@@ -7,6 +7,7 @@ permalink: /
 
 The Paris-Saclay Change-Point workshop is a **2-day meeting** (January 16<sup>th</sup> and 17<sup>th</sup> 2023) dedicated to theoretical and applied methods for solving change-point detection problems. The primary goal of the workshop consists in **fostering new interactions** within the European community of change-point researchers. This event is **free of charge** (no registration fee) and open to anyone willing to contribute to the development of the field (M2 students, PhD, young and senior researchers). 
 
+All presentations will be given in person and they will also be broadcasted on Zoom for people that can not attend the event physically.
 
 ***
 
