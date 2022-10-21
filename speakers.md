@@ -43,6 +43,4 @@ parameters. Our approach is based on the Matrix CUSUM test statistic and allows 
 size of networks. We show that the proposed test is minimax rate-optimal and robust to missing links. It is a joint work with Olga Klopp. 
 
 
-
-
-
+[Link to the paper](https://arxiv.org/pdf/2106.14470.pdf)
