@@ -32,6 +32,9 @@ The conference will be held at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en
   <img src="{{ site.baseurl }}/images/saclay.jpg" />
 </p>
 
+To easily come to the ENS Paris-Saclay, you can book an hotel near a RER B station, in the south of Paris (e.g. [Luxembourg](https://www.google.com/maps/place/Luxembourg/@48.845577,2.3376633,17z/data=!4m12!1m6!3m5!1s0x47e671c33a656971:0x41baf015b89f5c5c!2sGare+du+Luxembourg!8m2!3d48.845577!4d2.339852!3m4!1s0x47e671c33a656971:0x775f3a3f84e1ed14!8m2!3d48.8467695!4d2.3403078), [Port-Royal](https://www.google.com/maps/place/Port-Royal/@48.8399336,2.3328432,17z/data=!3m1!4b1!4m5!3m4!1s0x47e671c6c9a39529:0xfac9ddcce3850f8!8m2!3d48.8399337!4d2.3370704), [Denfert-Rochereau](https://www.google.com/maps/place/Denfert-Rochereau/@48.83418,2.3304913,17z/data=!3m1!4b1!4m5!3m4!1s0x47e671b83527a005:0x3fcd842d558f4439!8m2!3d48.83418!4d2.33268)).
+Please contact us if you have any trouble.
+
 The first day of the workshop (Monday afternoon) might take place in Paris city center. More information soon.
 
 ***
