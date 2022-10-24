@@ -79,10 +79,14 @@ On Monday morning, **10h - 12h**, we propose a "young Researcher Session" (for P
 
 ***
 
+**Acknowledgement**
+
+This research is supported by DATAIA convergence institute as part of the « Programme d’Investissement d’Avenir », (ANR-17-CONV-0003) operated by Centre Borelli (ENS Paris-Saclay) and LaMME (Évry University).
 
 
 ![_config.yml]({{ site.baseurl }}/images/logo_borelli.png)
 ![_config.yml]({{ site.baseurl }}/images/logo_lamme.png)
+![_config.yml]({{ site.baseurl }}/images/DATAIA-v.png)
 
 [Borelli website](https://centreborelli.ens-paris-saclay.fr/fr)   --       [LaMME website](http://www.math-evry.cnrs.fr/doku.php)
 
