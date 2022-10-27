@@ -53,7 +53,7 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 
 - **16h30 - 18h30** Workshop presentations (5x20min)
 
-*19h30 - 00h. Social dinner (in Paris City center)* at [**"le procope"**](https://www.procope.com/photos/#le-lieu) 
+*19h30 - 00h. Social dinner (in Paris City center)* at [**"le procope"**](https://www.procope.com/photos/#le-lieu) (free of charge)
 
 
 
