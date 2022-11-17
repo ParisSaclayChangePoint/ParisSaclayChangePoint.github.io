@@ -10,6 +10,7 @@ The Paris-Saclay Change-Point workshop is a **2-day meeting** (January 16<sup>th
 All presentations will be given in person and they will also be broadcasted on Zoom for people that can not attend the event physically.
 
 This event is intended for an academic audience.
+
 ***
 
 **Registration**
@@ -43,6 +44,8 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 **Provisional program**
 
 ***Monday 16 January 2023***
+
+- **10h - 12h**	Young researcher's session
 
 *Lunch*
 
