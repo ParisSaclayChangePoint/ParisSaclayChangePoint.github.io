@@ -54,7 +54,7 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 </style>
 
 | Time          | Speaker                  |
-|---------------|--------------------------|
+|:---------------:|:--------------------------:|
 | 10h00 - 10h20 |        Mengyi Gong       |
 | 10h20 - 10h40 |        Ziyang Yang       |
 | 10h40 - 11h00 |     Arnaud Liehrmann     |
