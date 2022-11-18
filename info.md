@@ -67,7 +67,7 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 
 
 | Time          | Speaker                                                                                                |
-|---------------|--------------------------------------------------------------------------------------------------------|
+|:---------------:|:--------------------------------------------------------------------------------------------------------:|
 | 12h00 - 14h00 | **Lunch**                                                                                              |
 | 14h00 - 15h00 | Nicolas Verzelen [ (abstract) ]( https://parissaclaychangepoint.github.io/speakers/#nicolas-verzelen ) |
 | 15h00 - 16h00 | Igor Nikiforov [ (abstract) ]( https://parissaclaychangepoint.github.io/speakers/#igor-nikiforov )     |
@@ -76,6 +76,7 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 | 17h00 - 17h30 | Émilie Lebarbier                                                                                       |
 | 17h30 - 18h00 | Alain Célisse / Madalina Olteanu                                                                       |
 | 18h00 - 18h30 | Matus Maciak                                                                                           |
+{: .tablelines}
 
 
 *19h30 - 00h. Social dinner (in Paris City center)* at [**"le procope"**](https://www.procope.com/photos/#le-lieu) (free of charge)
@@ -84,7 +85,7 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 ***Tuesday 17 January 2023***
 
 | Time          | Speaker                                                                                              |
-|---------------|------------------------------------------------------------------------------------------------------|
+|:---------------:|:------------------------------------------------------------------------------------------------------:|
 | 09h30 - 10h30 | Rebecca Kiliick [ (abstract) ]( https://parissaclaychangepoint.github.io/speakers/#rebecca-killick ) |
 | 10h30 - 11h30 | Farida Enikeeva [ (abstract) ]( https://parissaclaychangepoint.github.io/speakers/#farida-enikeeva ) |
 | 11h30 - 11h45 | **Coffee break**                                                                                     |
@@ -96,6 +97,7 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 | 15h30 - 16h00 |                                            Alexander Dürre                                           |
 | 16h00 - 16h30 |                                            Martin Wendler                                            |
 | 16h30 - 17h00 | **Coffee break**                                                                                     |
+{: .tablelines}
 
 
 *** 
