@@ -86,7 +86,7 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 
 | Time          | Speaker                                                                                              |
 |:---------------:|:------------------------------------------------------------------------------------------------------:|
-| 09h30 - 10h30 | Rebecca Kiliick [(abstract)]( https://parissaclaychangepoint.github.io/speakers/#rebecca-killick ) |
+| 09h30 - 10h30 | Rebecca Killick [(abstract)]( https://parissaclaychangepoint.github.io/speakers/#rebecca-killick ) |
 | 10h30 - 11h30 | Farida Enikeeva [(abstract)]( https://parissaclaychangepoint.github.io/speakers/#farida-enikeeva ) |
 | 11h30 - 11h45 | **Coffee break**                                                                                     |
 | 11h45 - 12h15 | Florian Pein [(abstract)](https://parissaclaychangepoint.github.io/speakers/#florian-pein)                                                                                         |
