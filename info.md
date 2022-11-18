@@ -69,11 +69,11 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 | Time          | Speaker                                                                                                |
 |:---------------:|:--------------------------------------------------------------------------------------------------------:|
 | 12h00 - 14h00 | **Lunch**                                                                                              |
-| 14h00 - 15h00 | Nicolas Verzelen [ (abstract) ]( https://parissaclaychangepoint.github.io/speakers/#nicolas-verzelen ) |
-| 15h00 - 16h00 | Igor Nikiforov [ (abstract) ]( https://parissaclaychangepoint.github.io/speakers/#igor-nikiforov )     |
+| 14h00 - 15h00 | Nicolas Verzelen [(abstract)](https://parissaclaychangepoint.github.io/speakers/#nicolas-verzelen) |
+| 15h00 - 16h00 | Igor Nikiforov [(abstract)](https://parissaclaychangepoint.github.io/speakers/#igor-nikiforov)     |
 | 16h00 - 16h30 |                                            **Coffee break**                                            |
 | 16h30 - 17h00 | Fan Wang                                                                                               |
-| 17h00 - 17h30 | Émilie Lebarbier                                                                                       |
+| 17h00 - 17h30 | Émilie Lebarbier [(abstract)](https://parissaclaychangepoint.github.io/speakers/#émilie-lebarbier)                                                                                      |
 | 17h30 - 18h00 | Alain Célisse / Madalina Olteanu                                                                       |
 | 18h00 - 18h30 | Matus Maciak                                                                                           |
 {: .tablelines}
@@ -86,10 +86,10 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 
 | Time          | Speaker                                                                                              |
 |:---------------:|:------------------------------------------------------------------------------------------------------:|
-| 09h30 - 10h30 | Rebecca Kiliick [ (abstract) ]( https://parissaclaychangepoint.github.io/speakers/#rebecca-killick ) |
-| 10h30 - 11h30 | Farida Enikeeva [ (abstract) ]( https://parissaclaychangepoint.github.io/speakers/#farida-enikeeva ) |
+| 09h30 - 10h30 | Rebecca Kiliick [(abstract)]( https://parissaclaychangepoint.github.io/speakers/#rebecca-killick ) |
+| 10h30 - 11h30 | Farida Enikeeva [(abstract)]( https://parissaclaychangepoint.github.io/speakers/#farida-enikeeva ) |
 | 11h30 - 11h45 | **Coffee break**                                                                                     |
-| 11h45 - 12h15 | Florian Pein                                                                                         |
+| 11h45 - 12h15 | Florian Pein [(abstract)](https://parissaclaychangepoint.github.io/speakers/#florian-pein)                                                                                         |
 | 12h15 - 12h45 | Gaetano Romano                                                                                       |
 | 12h45 - 14h30 | **Lunch**                                                                                            |
 | 14h30 - 15h00 |                                  Alejandro David de la Concha Duarte                                 |
