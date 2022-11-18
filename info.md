@@ -45,37 +45,51 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 
 ***Monday 16 January 2023***
 
-- **10h - 12h**	Young researcher's session
+**Young researcher's session**
 
-*Lunch*
+| Time          | Speaker                  |
+|---------------|--------------------------|
+| 10h00 - 10h20 |        Mengyi Gong       |
+| 10h20 - 10h40 |        Ziyang Yang       |
+| 10h40 - 11h00 |     Arnaud Liehrmann     |
+| 11h10 - 11h30 |       Anica Kostic       |
+| 11h30 - 11h50 | Shakeel Gavioli-Akilagun |
+| 11h50 - 12h10 |         Kata Vuk         |
 
-- **14h - 15h**	Keynote speaker 1 (45 min) by Nicolas Verzelen [(abstract)](https://parissaclaychangepoint.github.io/speakers/#nicolas-verzelen)
 
-- **15h - 16h** Keynote speaker 2 (45 min) by Igor Nikiforov [(abstract)](https://parissaclaychangepoint.github.io/speakers/#igor-nikiforov)
+**Main session**
 
-*Coffee break*
 
-- **16h30 - 18h30** Workshop presentations (5x20min)
+| Time          | Speaker                                                                                                |
+|---------------|--------------------------------------------------------------------------------------------------------|
+| 12h00 - 14h00 | **Lunch**                                                                                              |
+| 14h00 - 15h00 | Nicolas Verzelen [ (abstract) ]( https://parissaclaychangepoint.github.io/speakers/#nicolas-verzelen ) |
+| 15h00 - 16h00 | Igor Nikiforov [ (abstract) ]( https://parissaclaychangepoint.github.io/speakers/#igor-nikiforov )     |
+| 16h00 - 16h30 |                                            **Coffee break**                                            |
+| 16h30 - 17h00 | Fan Wang                                                                                               |
+| 17h00 - 17h30 | Émilie Lebarbier                                                                                       |
+| 17h30 - 18h00 | Alain Célisse / Madalina Olteanu                                                                       |
+| 18h00 - 18h30 | Matus Maciak                                                                                           |
+
 
 *19h30 - 00h. Social dinner (in Paris City center)* at [**"le procope"**](https://www.procope.com/photos/#le-lieu) (free of charge)
 
 
-
 ***Tuesday 17 January 2023***
 
-- **9h30 - 10h30**	Keynote speaker 3 (45 min) by Rebecca Killick [(abstract)](https://parissaclaychangepoint.github.io/speakers/#rebecca-killick)
-
-- **10h30 - 11h30**	Keynote speaker 4 (45 min) by Farida Enikeeva [(abstract)](https://parissaclaychangepoint.github.io/speakers/#farida-enikeeva)
-
-*Coffee break*
-
-- **11h45 - 12h45**	Workshop presentations (2x30min)
-
-*Lunch*
-
--  **14h30 - 16h**	Workshop presentations (3x30min)
-
-*Coffee break*
+| Time          | Speaker                                                                                              |
+|---------------|------------------------------------------------------------------------------------------------------|
+| 09h30 - 10h30 | Rebecca Kiliick [ (abstract) ]( https://parissaclaychangepoint.github.io/speakers/#rebecca-killick ) |
+| 10h30 - 11h30 | Farida Enikeeva [ (abstract) ]( https://parissaclaychangepoint.github.io/speakers/#farida-enikeeva ) |
+| 11h30 - 11h45 | **Coffee break**                                                                                     |
+| 11h45 - 12h15 | Florian Pein                                                                                         |
+| 12h15 - 12h45 | Gaetano Romano                                                                                       |
+| 12h45 - 14h30 | **Lunch**                                                                                            |
+| 14h30 - 15h00 |                                  Alejandro David de la Concha Duarte                                 |
+| 15h00 - 15h30 |                                             Annika Betken                                            |
+| 15h30 - 16h00 |                                            Alexander Dürre                                           |
+| 16h00 - 16h30 |                                            Martin Wendler                                            |
+| 16h30 - 17h00 | **Coffee break**                                                                                     |
 
 
 *** 
