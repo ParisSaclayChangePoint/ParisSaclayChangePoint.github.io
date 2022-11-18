@@ -47,6 +47,12 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 
 **Young researcher's session**
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 | Time          | Speaker                  |
 |---------------|--------------------------|
 | 10h00 - 10h20 |        Mengyi Gong       |
@@ -55,7 +61,7 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 | 11h10 - 11h30 |       Anica Kostic       |
 | 11h30 - 11h50 | Shakeel Gavioli-Akilagun |
 | 11h50 - 12h10 |         Kata Vuk         |
-
+{: .tablelines}
 
 **Main session**
 
