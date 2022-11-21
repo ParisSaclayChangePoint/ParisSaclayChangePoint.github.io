@@ -59,7 +59,7 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 | 10h20 - 10h40 |        Ziyang Yang       |
 | 10h40 - 11h00 |     Arnaud Liehrmann     |
 | 11h10 - 11h30 |       Anica Kostic       |
-| 11h30 - 11h50 | Shakeel Gavioli-Akilagun |
+| 11h30 - 11h50 | Shakeel Gavioli-Akilagun [(abstract)](https://parissaclaychangepoint.github.io/speakers/#shakeel-gavioli-akilagun) |
 | 11h50 - 12h10 |         Kata Vuk         |
 {: .tablelines}
 

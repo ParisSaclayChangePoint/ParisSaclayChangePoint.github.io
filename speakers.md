@@ -11,9 +11,25 @@ permalink: /speakers/
 **Abstract:** We consider the problem of change-point detection in a sequence of
 partially observed networks. The goal is to detect whether there is a change in the network
 parameters. Our approach is based on the Matrix CUSUM test statistic and allows growing
-size of networks. We show that the proposed test is minimax rate-optimal and robust to missing links. It is a joint work with Olga Klopp. 
+size of networks. We show that the proposed test is minimax rate-optimal and robust to missing links.
+
+This is a joint work with Olga Klopp. 
 
 [Link to the paper](https://arxiv.org/pdf/2106.14470.pdf)
+
+***
+
+### Shakeel Gavioli-Akilagun
+
+**Title:** Uncovering Causality in Change Point Regressions
+
+We propose a method for estimating graphs which encode (non-) causality between change points present in a moderate number of data streams. Typically after performing change point analysis relationships between estimated change points can only be described qualitatively, since in general change point locations are held to be unknown but non-stochastic. From the perspective of prac- titioners this is a limitation, since in many settings it is reasonable to believe change points will be causally linked. For example: in climatology changes in concentrations levels of certain gasses actively cause changes in the environment [1]. We model unobserved change point locations as arrival times of a marked point process, for which non-causality is well understood [2]. Estimated change point locations can therefore be seen as a noisy sample path of the same process, to which existing estimation procedures can be applied. We will give details of this ongoing work, and provide real data examples illustrating its practical value.
+
+This is a joint work with Piotr Fryzlewicz. 
+
+[1] Andreas Schmittner (2018), Introduction to Climate Science, Oregon State University
+<br>
+[2] Vanessa Didelez, Graphical models for marked point processes based on local independence, Journal of the Royal Statistical Society: Series B (Statistical Methodology)
 
 ***
 
