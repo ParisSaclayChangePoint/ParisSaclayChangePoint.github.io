@@ -86,16 +86,16 @@ The first day of the workshop (Monday afternoon) might take place in Paris city 
 
 | Time          | Speaker                                                                                              |
 |:---------------:|:------------------------------------------------------------------------------------------------------:|
-| 09h30 - 10h30 | Rebecca Killick [(abstract)]( https://parissaclaychangepoint.github.io/speakers/#rebecca-killick ) |
-| 10h30 - 11h30 | Farida Enikeeva [(abstract)]( https://parissaclaychangepoint.github.io/speakers/#farida-enikeeva ) |
-| 11h30 - 11h45 | **Coffee break**                                                                                     |
-| 11h45 - 12h15 | Florian Pein [(abstract)](https://parissaclaychangepoint.github.io/speakers/#florian-pein)                                                                                         |
-| 12h15 - 12h45 | Gaetano Romano                                                                                       |
+| 09h30 - 10h30 | Rebecca Killick [(abstract)]( https://parissaclaychangepoint.github.io/speakers/#rebecca-killick )  |
+| 10h30 - 11h30 | Farida Enikeeva [(abstract)]( https://parissaclaychangepoint.github.io/speakers/#farida-enikeeva )  |
+| 11h30 - 11h45 | **Coffee break**                                                                                    |
+| 11h45 - 12h15 | Florian Pein [(abstract)](https://parissaclaychangepoint.github.io/speakers/#florian-pein)          |
+| 12h15 - 12h45 | Gaetano Romano [(abstract)](https://parissaclaychangepoint.github.io/speakers/gaetano-romano)       |
 | 12h45 - 14h30 | **Lunch**                                                                                            |
 | 14h30 - 15h00 |                                  Alejandro David de la Concha Duarte                                 |
 | 15h00 - 15h30 |                                             Annika Betken                                            |
 | 15h30 - 16h00 |                                            Alexander Dürre                                           |
-| 16h00 - 16h30 |                                            Martin Wendler                                            |
+| 16h00 - 16h30 | Martin Wendler [(abstract)](https://parissaclaychangepoint.github.io/speakers/martin-wendler)       |
 | 16h30 - 17h00 | **Coffee break**                                                                                     |
 {: .tablelines}
 
