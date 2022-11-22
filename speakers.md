@@ -97,11 +97,19 @@ This is joint work with Hyeyoung Maeng, Paul Fearnhead and Idris Eckley.
 
 ***
 
+### Fan Wang
+
+**Title:** Online change point localization in multilayer random dot product graph models
+
+**Abstract:** We study the online change point localization problem in dynamic multilayer random dot product graphs (D-MRDPGs). To be specific, at every time point, we extend the nonparametric random dot product graph (RDPG) to the directed multilayer graph with the common node sets and the underlying distributions change when a change point occurs. The goal is to detect the change point as quickly as possible if it exists, subject to a constraint on the probability of false alarms. The change in our framework is in fact, a multivariate nonparametric distributional change. Instead of defining the jump size using a density, we use the expectation of the kernel density estimator (KDE). Our generic model setting allows the model parameters, including the number of nodes, the dimension of latent position, and the magnitude of the change, to vary as functions of the location of the change point. We propose a novel change point detection algorithm and proved an upper bound on the detection delay under a signal-to-noise ratio condition. Additionally, for a single multilayer random dot product graph (MRDPG), we study an estimation method based on the adjacency tensor and show it achieves the optimal statistical performance in estimation error. Finally, extensive numerical results including simulation studies and real data studies are provided to support our theoretical results.
+
+***
+
 ### Martin Wendler
 
 **Title:** Detection of Epidemic Changes Based on Weighted U-Statistics
 
-To detect a changed segment (a so called epidemic changes) in a time series, variants of the CUSUM statistic are frequently used. However, they are sensitive to outliers in the data and do not perform well for heavy tailed data, especially when short segments are given high weights in the test statistic. We will present a robust test statistic for epidemic changes based on a weighted version of the Wilcoxon rank statistic. To study their asymptotic behavior, we prove functional limit theorems for general U-processes in Hölder spaces. We assume that the time series is short range dependent in the sense of absolute regularity. Under the alternative, we show that the test is consistent. We also study the finite sample behavior via simulations and apply the statistics to a real data example.
+**Abstract:** To detect a changed segment (a so called epidemic changes) in a time series, variants of the CUSUM statistic are frequently used. However, they are sensitive to outliers in the data and do not perform well for heavy tailed data, especially when short segments are given high weights in the test statistic. We will present a robust test statistic for epidemic changes based on a weighted version of the Wilcoxon rank statistic. To study their asymptotic behavior, we prove functional limit theorems for general U-processes in Hölder spaces. We assume that the time series is short range dependent in the sense of absolute regularity. Under the alternative, we show that the test is consistent. We also study the finite sample behavior via simulations and apply the statistics to a real data example.
 
 This is a joint work with Alfredas Račkauskas
 
