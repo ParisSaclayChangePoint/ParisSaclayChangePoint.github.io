@@ -115,6 +115,7 @@ This research is supported by DATAIA convergence institute as part of the « Pro
 ![_config.yml]({{ site.baseurl }}/images/logo_borelli.png)
 ![_config.yml]({{ site.baseurl }}/images/logo_lamme.png)
 ![_config.yml]({{ site.baseurl }}/images/DATAIA-v.png)
+![_config.yml]({{ site.baseurl }}/images/LogoIDAML.jpg)
 
 [Borelli website](https://centreborelli.ens-paris-saclay.fr/fr)   --       [LaMME website](http://www.math-evry.cnrs.fr/doku.php)
 
