@@ -17,7 +17,7 @@ This event is intended for an academic audience.
 **Registration**
 
 Registration is free of charge but mandatory.
-Complimentary lunches and a social dinner will be provided. The number of participants is limited, so please register in advance. Registration closing date is **December 1<sup>st</sup> 2022**.
+Complimentary lunches and a social dinner will be provided. The number of **in-person participants** is limited, so please register in advance. Registration for the social dinner closes on **December 1<sup>st</sup> 2022**.
 
 <p style="text-align: center;">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdrJDJYCFtiO1Pe1R85hQrI1LLHs-W2fCg9wWRxKjeeWaZckg/viewform?usp=sf_link">----- Register here -----</a>
