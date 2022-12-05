@@ -112,6 +112,8 @@ On Monday morning, **10h - 12h**, we propose a "young Researcher Session" (for P
 
 This research is supported by DATAIA convergence institute as part of the « Programme d’Investissement d’Avenir », (ANR-17-CONV-0003) operated by Centre Borelli (ENS Paris-Saclay) and LaMME (Évry University).
 
+This seminar is also made possible with financial support of the Industrial Data Analytics and Machine Learning (IDAML) chair of ENS Paris-Saclay.
+
 
 ![_config.yml]({{ site.baseurl }}/images/logo_borelli.png)
 ![_config.yml]({{ site.baseurl }}/images/logo_lamme.png)
