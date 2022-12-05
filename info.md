@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-🥳🎊**ANNOUNCEMENT:**🎊🥳 We are excited to announce that this workshop will have proceedings!
+🥳🎊**ANNOUNCEMENT**🎊🥳 We are excited to announce that this workshop will have proceedings!
 More information [here](https://parissaclaychangepoint.github.io/proceedings/).
 
 
