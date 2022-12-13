@@ -33,6 +33,18 @@ This is a joint work with Piotr Fryzlewicz.
 
 ***
 
+### Mengyi Gong
+
+**Title:** A changepoint approach to modelling soil moisture dynamics 
+
+**Abstract:** Soil moisture is an important measure of soil health that scientists model via soil drydown curves. The typical modelling process requires manually identifying the drying process and fitting exponential decay models to them, which can be time consuming. The result is a static overview of the drydown property.
+Motivated by the spike-train problem in neuroscience, a changepoint-based approach is proposed to automatically identify structural changes in the soil drying process. Changes caused by sudden rises in soil moisture content over a long time series are captured and the parameters characterising the drying processes are estimated simultaneously. Segment specific parameters are used to capture potential temporal variations in the drying process. An algorithm based on the penalised exact linear time (PELT) method was developed to identify the changepoints. Applying the algorithm to simulated and real data show good performance of the method. 
+To improve the flexibility of the modelling approach, so that periods corresponding to no drying as a result of low temperature or saturation can be segmented in addition to the exponential decay periods, an approach based on the on-line inference for multiple changepoints problems is currently under development. It allows the selection of different types of models to describe the segments with distinctively different patterns. Extension to estimate the parameters unique to each segment is also being investigated. 
+
+This is joint work with Prof. Rebecca Killick and Prof. Christopher Nemeth.
+
+***
+
 ### Rebecca Killick
 
 **Title:** Detecting changes in mixed-sampling rate data sequences
