@@ -4,6 +4,14 @@ title: Speakers
 permalink: /speakers/
 ---
 
+### Alejandro de la Concha
+
+**Titre:** Online Centralized Non-parametric Change-point Detection via Graph-based Likelihood-ratio Estimation
+
+**Abstract:** Consider each node of a graph to be generating a data stream that is synchronized and observed at near real-time. At a change-point 𝜏, a change occurs at a subset of nodes *C*, which affects the probability distribution of their associated node streams.
+In this work, we propose a novel kernel-based method to both detect 𝜏 and localize *C*, based on the direct estimation of the likelihood-ratio between the post-change and the pre-change distributions of the node streams. Our main working hypothesis is the smoothness of the likelihood-ratio estimates over the graph, i.e. connected nodes are expected to have similar likelihood-ratios.  
+
+
 ### Farida Enikeeva
 
 **Title:** Change-point detection in dynamic networks with missing links
