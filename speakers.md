@@ -134,3 +134,13 @@ This is joint work with Hyeyoung Maeng, Paul Fearnhead and Idris Eckley.
 This is a joint work with Alfredas Račkauskas
 
 [Link to article](https://doi.org/10.1007/s00362-020-01161-9)
+
+***
+
+### Ziyang Yang
+
+**Title:** Online distributed changepoint detection methods for monitoring the Internet of Things.
+
+With the advent of the Internet of Things, it is increasingly common to have large networks of sensors. Each sensor has limited computing ability and the ability to transfer data to a central cloud. However, the communication between sensors and the cloud can be very expensive. Thus, this brings us a new challenge to detect changes within such a network in real time with as little communication and computation as possible.
+
+We proposed two online, communication-efficient methods to detect the changes. Simulation results suggest that our methods can still be almost as good as the idealistic setting, where we have no constraints on communication between sensors, but substantially reduce the transmission costs when there is a dense change.
