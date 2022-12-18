@@ -89,6 +89,15 @@ This is joint work with Charlotte Dion and Stéphane Robin.
 
 ***
 
+### Madalina Olteanu and Alain Célisse
+
+**Title:** On the importance of component-wise weighting a multi-dimensional sparse signal for detecting breakpoints
+
+**Abstract:** Many automatic-monitoring applications record high-dimensional time-series. However only a small number of components carry some information (breaks in the mean of the signal), while the others are pure noise. In this high-dimensional context where the relevant signal is sparse, we design and study a new segmentation algorithm identifying the few really informative components from which better segmentations can be uncovered. The present work focuses on detecting changes in the mean of a multivariate signal that is sparse. We describe and study a two-step procedure inspired by ideas from sparse clustering. The first step consists in building a sparse weight vector applying component-wise, then reducing the influence of non-informative components and therefore the dimensionality of the time-series. In the second, the candidate change points are computed from the resulting weighted time-series. Simulated examples illustrate the contribution of the weighting procedure both in terms of dimensionality reduction and relevance of the output segmentations. 
+
+
+***
+
 ### Florian Pein
 
 **Title:** High-dimensional change-point regression with structured information
