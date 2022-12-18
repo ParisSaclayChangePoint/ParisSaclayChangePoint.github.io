@@ -74,7 +74,7 @@ Please contact us if you have any trouble.
 | 16h00 - 16h30 |                                            **Coffee break**                                             |
 | 16h30 - 17h00 | Fan Wang [(abstract)](https://parissaclaychangepoint.github.io/speakers/#fan-wang)                      |
 | 17h00 - 17h30 | Émilie Lebarbier [(abstract)](https://parissaclaychangepoint.github.io/speakers/#émilie-lebarbier)      |
-| 17h30 - 18h00 | Alain Célisse and Madalina Olteanu [(abstract)](https://parissaclaychangepoint.github.io/speakers/#madalina olteanu-and-alain-célisse) |
+| 17h30 - 18h00 | Alain Célisse and Madalina Olteanu [(abstract)](https://parissaclaychangepoint.github.io/speakers/#madalina-olteanu-and-alain-célisse) |
 | 18h00 - 18h30 | Matus Maciak                                                                                            |
 {: .tablelines}
 
