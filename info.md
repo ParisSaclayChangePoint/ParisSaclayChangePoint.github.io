@@ -72,7 +72,6 @@ Please contact us if you have any trouble.
 | 14h00 - 15h00 | Nicolas Verzelen [(abstract)](https://parissaclaychangepoint.github.io/speakers/#nicolas-verzelen)      |
 | 15h00 - 16h00 | Igor Nikiforov [(abstract)](https://parissaclaychangepoint.github.io/speakers/#igor-nikiforov)          |
 | 16h00 - 16h30 |                                            **Coffee break**                                             |
-<!-- | 16h30 - 17h00 | Fan Wang [(abstract)](https://parissaclaychangepoint.github.io/speakers/#fan-wang)                      | -->
 | 16h30 - 17h00 | Émilie Lebarbier [(abstract)](https://parissaclaychangepoint.github.io/speakers/#émilie-lebarbier)      |
 | 17h00 - 17h30 | Alain Célisse and Madalina Olteanu [(abstract)](https://parissaclaychangepoint.github.io/speakers/#madalina-olteanu-and-alain-célisse) |
 | 17h30 - 18h00 | Matus Maciak                                                                                            |
