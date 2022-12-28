@@ -57,10 +57,10 @@ Please contact us if you have any trouble.
 |:---------------:|:--------------------------:|
 | 10h00 - 10h20 | Mengyi Gong [(abstract)](https://parissaclaychangepoint.github.io/speakers/#mengyi-gong)                            |
 | 10h20 - 10h40 | Ziyang Yang [(abstract)](https://parissaclaychangepoint.github.io/speakers/#ziyang-yang)                            |
-| 10h40 - 11h00 |     Arnaud Liehrmann [(abstract)](https://parissaclaychangepoint.github.io/speakers/#arnaud-liehrmann)              |
+| 10h40 - 11h00 | Arnaud Liehrmann [(abstract)](https://parissaclaychangepoint.github.io/speakers/#arnaud-liehrmann)              |
 | 11h10 - 11h30 |       Anica Kostic       |
 | 11h30 - 11h50 | Shakeel Gavioli-Akilagun [(abstract)](https://parissaclaychangepoint.github.io/speakers/#shakeel-gavioli-akilagun)  |
-| 11h50 - 12h10 |         Kata Vuk         |
+| 11h50 - 12h10 | Kata Vuk [(abstract)](https://parissaclaychangepoint.github.io/speakers/#kata-vuk) |
 {: .tablelines}
 
 **Main session**

@@ -81,6 +81,15 @@ This is joint work with Charlotte Dion and Stéphane Robin.
 
 
 ***
+
+### Arnaud Liehrmann
+
+**Title:** Ms.FPOP: An Exact and Fast Segmentation Algorithm With a Multiscale Penalty
+
+**Abstract:** Given a time series in R^n with a piecewise constant mean and independent noises, we propose an exact dynamic programming algorithm to minimize a least square criterion with a multiscale penalty promoting well-spread changepoints. Such a penalty has been proposed in Verzelen et al. (2020), and it achieves optimal rates for changepoint detection and changepoint localization. Our proposed algorithm, named Ms.FPOP, extends functional pruning ideas of Rigaill 2015 and Maidstone et al. (2017) to multiscale penalties. For large signals, n>10^5, with relatively few real changepoints, Ms.FPOP is typically an order of magnitude faster than PELT. We propose an efficient C++ implementation interfaced with R of Ms.FPOP allowing to segment a profile of up to n=10^6 in a matter of seconds.
+
+***
+
 ### Igor Nikiforov
 
 **Title:** Sequential detection of abrupt changes: some criteria and methods
@@ -123,6 +132,17 @@ This is joint work with Hyeyoung Maeng, Paul Fearnhead and Idris Eckley.
 **Abstract:** Given a times series, we consider the twin problems of detecting and localizing change-points in the distribution. This encompasses various models including mean univariate, sparse multivariate, non-parametric, or kernel change-points... Starting with the simple Gaussian univariate model, we derive optimal detection and localization rates and uncover phase transitions from regional testing problems to local estimation problems. Notably, our multi-scale procedures accommodate with the presence of possibly many low-energy and therefore undetectable change-points. In a second part, we explain how the methodology extends to more generic change-point problems by drawing some connection with minimax theory in multiple testing. This is based on joint works with A. Carpentier, M. Fromont, M. Lerasle, E. Pilliat, and P. Reynaud-Bouret. 
 
 [Link to article](https://arxiv.org/pdf/2010.11470.pdf)
+
+
+***
+
+### Kata Vuk
+
+**Title:** Weighted change-point tests based on two-sample U-statistics
+
+**Abstract:** We study non-parametric tests for change-points in time series that are based on weighted two-sample U-statistics. By a suitable choice of weights, we obtain tests that are able to detect changes that occur very early or very late during the observation period. Our tests cover both the CUSUM and the Wilcoxon change-point test as well as many other robust and non-robust tests. We investigate the limit distribution of our test statisitc under the hypothesis that no change occurs, but also under the alternative that there is a change. We study two different types of alternatives. First, we allow both the location and the height of the change to depend on the sample size. Then, we consider the alternative where the jump height is kept constant while the time of change moves closer to the border. To illustrate the results and to investigate the power of the tests we will give some simulation results.  
+
+[Link to article](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-1/Change-point-detection-based-on-weighted-two-sample-U-statistics/10.1214/21-EJS1964.full)
 
 ***
 
