@@ -78,7 +78,7 @@ Please contact us if you have any trouble.
 {: .tablelines}
 
 
-*19h30 - 00h. Social dinner (in Paris City center)* at [**"le procope"**](https://www.procope.com/photos/#le-lieu) (free of charge)
+*19h30 - 00h. Social dinner (in Paris City center)* at [**"Le Procope"**](https://www.procope.com/photos/#le-lieu) (free of charge)
 
 
 ***Tuesday 17 January 2023***
