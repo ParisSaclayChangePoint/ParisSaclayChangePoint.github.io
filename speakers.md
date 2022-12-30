@@ -4,6 +4,12 @@ title: Speakers
 permalink: /speakers/
 ---
 
+### Annika Betken
+
+**Title:** A Solution to the Change-Point Problem based on Ranks, Self-normalization & Subsampling
+
+**Abstract:** We consider change-point tests based on rank statistics to test for structural changes in time series data. Under the hypothesis of stationary time series, the asymptotic distributions of the corresponding test statistics are derived. For this, we consider a uniform reduction principle for the empirical process in a two-parameter Skorohod space equipped with a weighted supremum norm. Moreover, special emphasis is laid on an application-oriented approach to the mathematical results by considering self-normalized statistics and an approximation of the distribution of test statistics by subsampling procedures.
+
 ### Alejandro de la Concha
 
 **Titre:** Online Centralized Non-parametric Change-point Detection via Graph-based Likelihood-ratio Estimation
