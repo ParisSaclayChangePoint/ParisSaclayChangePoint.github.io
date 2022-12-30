@@ -90,6 +90,14 @@ This is joint work with Charlotte Dion and Stéphane Robin.
 
 ***
 
+### Matúš Maciak
+
+**Title:** Online changepoint test in a nonlinear expectile model
+
+**Abstract:** An automatic data-driven changepoint test is presented to detect specific structural changes within an underlying stochastic model. The proposed methodology is based on a nonlinear (parametric) regression framework which ensures relatively large flexibility of the overall model. Conditional expectiles---well-known in econometrics for being the only coherent and elicitable risk measure---induce some robustness in the model estimation, and the proposed statistical test is proved to be consistent while the distribution of the test statistic under the null hypothesis does not depend on the functional form of the underlying model neither on the unknown parameters. Therefore, relatively easy and straightforward practical application is guaranteed. Important theoretical details are discussed and finite sample empirical properties (simulations and real data example) are presented.
+
+***
+
 ### Igor Nikiforov
 
 **Title:** Sequential detection of abrupt changes: some criteria and methods
