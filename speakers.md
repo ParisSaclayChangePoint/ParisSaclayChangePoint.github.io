@@ -67,6 +67,14 @@ This is joint work with Prof. Rebecca Killick and Prof. Christopher Nemeth.
 
 ***
 
+### Anica Kostic
+
+**Title:** Multiple hypothesis testing from the change-point detection viewpoint – surprises and new results
+
+**Abstract:** Estimating the proportion of false null hypotheses among a large number of independently tested hypotheses is an important problem in multiple testing literature.  In the sequence of sorted p-values (p-value plot), false null p-values tend to be smaller and concentrated at the beginning. This suggests an approximate piecewise linear shape of the p-value plot, with a change-point separating small from large p-values. Our proposed method for estimating the false null proportion (Difference Of Slopes) utilizes the idea of estimating that change-point in slope in the p-value plot. The resulting estimator is a conservative estimator of the proportion, which is a desirable property when using adaptive FDR procedures. It performs best in sparse cases, when the false null proportion is small. A possible extension involves estimating multiple change-points and thus grouping p-values based on their local FDR value.
+
+***
+
 ### Émilie Lebarbier
 
 **Title:** Multiple change-point detection in a Poisson process 
