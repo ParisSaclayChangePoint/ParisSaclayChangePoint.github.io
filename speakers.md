@@ -35,15 +35,10 @@ This is a joint work with Olga Klopp.
 
 ### Shakeel Gavioli-Akilagun
 
-**Title:** Uncovering Causality in Change Point Regressions
+**Title**: Robust Inference for Change-points using Confidence Sets
 
-We propose a method for estimating graphs which encode (non-) causality between change points present in a moderate number of data streams. Typically after performing change point analysis relationships between estimated change points can only be described qualitatively, since in general change point locations are held to be unknown but non-stochastic. From the perspective of prac- titioners this is a limitation, since in many settings it is reasonable to believe change points will be causally linked. For example: in climatology changes in concentrations levels of certain gasses actively cause changes in the environment [1]. We model unobserved change point locations as arrival times of a marked point process, for which non-causality is well understood [2]. Estimated change point locations can therefore be seen as a noisy sample path of the same process, to which existing estimation procedures can be applied. We will give details of this ongoing work, and provide real data examples illustrating its practical value.
-
-This is a joint work with Piotr Fryzlewicz. 
-
-[1] Andreas Schmittner (2018), Introduction to Climate Science, Oregon State University
-<br>
-[2] Vanessa Didelez, Graphical models for marked point processes based on local independence, Journal of the Royal Statistical Society: Series B (Statistical Methodology)
+**Abstract**: Multiple change-point detection has become popular with the routine collection of complex non stationary time series. An equally important but comparatively neglected question concerns quantifying the level of uncertainty around each putative change point. Though a handful of procedures exist in the literature, most all make assumptions on the density of the contaminating noise which are impractical to verify in practice. Moreover, most procedures are only applicable in the canonical piecewise-constant mean (median, or quantile) setting. We present a procedure which, under minimal assumptions, returns localised regions of a data sequence which must contain a change point at some global significance level chosen by the user. Our procedure is based on properties of confidence sets for the underlying regression function obtained by inverting certain multi-resolution tests, and is immediately applicable to change points in higher order polynomials. We will discuss some appealing theoretical properties of our procedure, and show its
+good practical performance on real and simulated data. 
 
 ***
 
