@@ -10,6 +10,8 @@ permalink: /speakers/
 
 **Abstract:** We consider change-point tests based on rank statistics to test for structural changes in time series data. Under the hypothesis of stationary time series, the asymptotic distributions of the corresponding test statistics are derived. For this, we consider a uniform reduction principle for the empirical process in a two-parameter Skorohod space equipped with a weighted supremum norm. Moreover, special emphasis is laid on an application-oriented approach to the mathematical results by considering self-normalized statistics and an approximation of the distribution of test statistics by subsampling procedures.
 
+***
+
 ### Alejandro de la Concha
 
 **Titre:** Online Centralized Non-parametric Change-point Detection via Graph-based Likelihood-ratio Estimation
@@ -17,6 +19,16 @@ permalink: /speakers/
 **Abstract:** Consider each node of a graph to be generating a data stream that is synchronized and observed at near real-time. At a change-point 𝜏, a change occurs at a subset of nodes *C*, which affects the probability distribution of their associated node streams.
 In this work, we propose a novel kernel-based method to both detect 𝜏 and localize *C*, based on the direct estimation of the likelihood-ratio between the post-change and the pre-change distributions of the node streams. Our main working hypothesis is the smoothness of the likelihood-ratio estimates over the graph, i.e. connected nodes are expected to have similar likelihood-ratios.  
 
+***
+
+### Alexander Dürre
+
+**Title:** Robust change point tests by bounded transformations
+
+**Abstract:** Classical moment based change point tests like the cusum test are very powerful under Gaussian time series with no more than one change point but behave poorly under heavy tailed distributions and corrupted data. A new class of robust change point tests based on cusum statistics of robustly transformed observations is proposed. This framework is very flexible. Depending on the used transformation, one can detect amongst others changes in the mean, scale or dependence of a possibly multivariate time series. The calculation of p-values can be simplified by using asymptotics which yields a computational complexity of T log(T) where T is the number of observations. We derive the asymptotic distribution under local alternatives and use the result to compare the asymptotic power under different distributions.
+
+
+***
 
 ### Farida Enikeeva
 

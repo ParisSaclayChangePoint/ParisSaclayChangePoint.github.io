@@ -92,10 +92,10 @@ Please contact us if you have any trouble.
 | 12h15 - 12h45 | Gaetano Romano [(abstract)](https://parissaclaychangepoint.github.io/speakers/#gaetano-romano)       |
 | 12h45 - 14h30 | **Lunch**                                                                                            |
 | 14h30 - 15h00 | Alejandro David de la Concha Duarte [(abstract)](https://parissaclaychangepoint.github.io/speakers/#alejandro-de-la-concha)  |
-| 15h00 - 15h30 | Annika Betken [(abstract)](https://parissaclaychangepoint.github.io/speakers/#annika-betken) |
-| 15h30 - 16h00 |                                            Alexander Dürre                                           |
-| 16h00 - 16h30 | Martin Wendler [(abstract)](https://parissaclaychangepoint.github.io/speakers/#martin-wendler)       |
-| 16h30 - 17h00 | **Coffee break**                                                                                     |
+| 15h00 - 15h30 | Annika Betken [(abstract)](https://parissaclaychangepoint.github.io/speakers/#annika-betken)          |
+| 15h30 - 16h00 | Alexander Dürre [(abstract)](https://parissaclaychangepoint.github.io/speakers/#alexander-dürre)      |
+| 16h00 - 16h30 | Martin Wendler [(abstract)](https://parissaclaychangepoint.github.io/speakers/#martin-wendler)        |
+| 16h30 - 17h00 | **Coffee break**                                                                                      |
 {: .tablelines}
 
 
