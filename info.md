@@ -104,7 +104,7 @@ Please contact us if you have any trouble.
 
 **Young Researcher Session**
 
-On Monday morning, **10h - 12h**, we propose a "young Researcher Session" (for PhD and PostDocs) as a side event of this workshop. 
+On Monday morning, **10h00 - 12h20**, we propose a "young Researcher Session" (for PhD and PostDocs) as a side event of this workshop. 
 
 ***
 
