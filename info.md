@@ -69,7 +69,7 @@ Please contact us if you have any trouble.
 
 | Time          | Speaker                                                                                                |
 |:---------------:|:--------------------------------------------------------------------------------------------------------:|
-| 12h00 - 14h00 | **Lunch**                                                                                               |
+| 12h20 - 14h00 | **Lunch**                                                                                               |
 | 14h00 - 15h00 | Nicolas Verzelen [(abstract)](https://parissaclaychangepoint.github.io/speakers/#nicolas-verzelen)      |
 | 15h00 - 16h00 | Igor Nikiforov [(abstract)](https://parissaclaychangepoint.github.io/speakers/#igor-nikiforov)          |
 | 16h00 - 16h30 |                                            **Coffee break**                                             |
