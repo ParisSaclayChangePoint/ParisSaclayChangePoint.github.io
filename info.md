@@ -29,7 +29,7 @@ We can offer financial support for workshop speakers (for travel and accommodati
 
 **Venue**
 
-**Both days** of the workshop will be held at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en/school/how-find-us), accessible by train (RER B from Paris) in about 45 minutes.
+**Both days** of the workshop will be held at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en/school/how-find-us) (**Room 1B36**), accessible by train (RER B from Paris) in about 45 minutes.
 
 <p align="center">
   <img src="{{ site.baseurl }}/images/saclay.jpg" />
