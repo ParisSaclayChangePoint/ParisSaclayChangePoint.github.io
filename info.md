@@ -41,7 +41,7 @@ Please contact us if you have any trouble.
 
 ***
 
-**Provisional program**
+**Program**
 
 ***Monday 16 January 2023***
 
