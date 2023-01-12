@@ -61,7 +61,7 @@ Please contact us if you have any trouble.
 | 10h40 - 11h00 | Arnaud Liehrmann [(abstract)](https://parissaclaychangepoint.github.io/speakers/#arnaud-liehrmann)                  |
 | 11h10 - 11h30 | Anica Kostic [(abstract)](https://parissaclaychangepoint.github.io/speakers/#anica-kostic)                          |
 | 11h30 - 11h50 | Shakeel Gavioli-Akilagun [(abstract)](https://parissaclaychangepoint.github.io/speakers/#shakeel-gavioli-akilagun)  |
-| 11h50 - 12h10 | Kata Vuk [(abstract)](https://parissaclaychangepoint.github.io/speakers/#kata-vuk) |
+| 11h50 - 12h10 | Kata Vuk [(abstract)](https://parissaclaychangepoint.github.io/speakers/#kata-vuk)                                  |
 {: .tablelines}
 
 **Main session**
