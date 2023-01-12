@@ -55,7 +55,6 @@ Please contact us if you have any trouble.
 
 | Time          | Speaker                  |
 |:---------------:|:--------------------------:|
-| 09h45 - 10h00 | Welcome                                                                                                             |
 | 10h00 - 10h20 | Mengyi Gong [(abstract)](https://parissaclaychangepoint.github.io/speakers/#mengyi-gong)                            |
 | 10h20 - 10h40 | Ziyang Yang [(abstract)](https://parissaclaychangepoint.github.io/speakers/#ziyang-yang)                            |
 | 10h40 - 11h00 | Arnaud Liehrmann [(abstract)](https://parissaclaychangepoint.github.io/speakers/#arnaud-liehrmann)                  |
