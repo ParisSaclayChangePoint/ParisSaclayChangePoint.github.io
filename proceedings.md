@@ -20,7 +20,7 @@ Every participant is welcome to contribute to the review process.
  
 #### WHEN?
 From now on up to April the 30th 2023.
-Reviewing process ends in April/May for publication in Summer 2023.
+Reviewing process ends in May/June for publication in Summer 2023.
  
 #### WHAT?
 The objective is to publish important and original technical considerations that have not yet been detailed before, for instance:
