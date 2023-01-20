@@ -19,7 +19,7 @@ Every participant to the conference can propose a paper (at least, one of the co
 Every participant is welcome to contribute to the review process.
  
 #### WHEN?
-From now on up to 31st March 2023.
+From now on up to April the 30th 2023.
 Reviewing process ends in April/May for publication in Summer 2023.
  
 #### WHAT?
