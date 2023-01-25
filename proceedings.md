@@ -8,7 +8,7 @@ We are excited to announce that this workshop will have proceedings!
 They will be published in a special issue on change-point detection in [ESAIM: Proceedings and Surveys](https://www.esaim-proc.org/).
 Each contribution will have its own DOI.
 
-To foster discussions during the workshop, we propose to use an open reviewing process (see below) to share your contribution, read the other articles and review them!
+We propose to use an open reviewing process (see below) to share your contribution, read the other articles and review them!
 The main idea is that we can all comment, propose some improvements, pinpoint references...
 A final review will be done by the organizing committee for publication in Summer 2023.
  
